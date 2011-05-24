@@ -3,10 +3,8 @@
  */
 package com.salas.junittest;
 
-/**
- * @author pitosalas
- *
- */
 public class TestClass {
-
+	public int multiply(int x, int y) {
+		return x * y;
+	}
 }
